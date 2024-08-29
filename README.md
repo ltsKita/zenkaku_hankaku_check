@@ -1,1 +1,1 @@
-# zenkaku_hankaku_check
+全角・半角の校閲を行います
