@@ -1,0 +1,700 @@
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｒ
+Replaced Text: R
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｈ
+Replaced Text: H
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｒ
+Replaced Text: R
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｒ
+Replaced Text: R
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｈ
+Replaced Text: H
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｒ
+Replaced Text: R
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ９
+Replaced Text: 9
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ４
+Replaced Text: 4
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ４
+Replaced Text: 4
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ９
+Replaced Text: 9
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: ＋
+Replaced Text: +
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｐ
+Replaced Text: P
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｏ
+Replaced Text: O
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｓ
+Replaced Text: S
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ａ
+Replaced Text: A
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｐ
+Replaced Text: P
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｃ
+Replaced Text: C
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｖ
+Replaced Text: V
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｐ
+Replaced Text: P
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｒ
+Replaced Text: R
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｖ
+Replaced Text: V
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ａ
+Replaced Text: A
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｎ
+Replaced Text: N
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｓ
+Replaced Text: S
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｉ
+Replaced Text: I
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ａ
+Replaced Text: A
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｎ
+Replaced Text: N
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｓ
+Replaced Text: S
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ９
+Replaced Text: 9
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ７
+Replaced Text: 7
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ９
+Replaced Text: 9
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ３
+Replaced Text: 3
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ３
+Replaced Text: 3
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ３
+Replaced Text: 3
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ３
+Replaced Text: 3
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ７
+Replaced Text: 7
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ４
+Replaced Text: 4
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ２
+Replaced Text: 2
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: ＋
+Replaced Text: +
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｓ
+Replaced Text: S
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ａ
+Replaced Text: A
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｓ
+Replaced Text: S
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ａ
+Replaced Text: A
+----------------------------------------
+Matched Rule: 全角閉じカッコを半角閉じカッコに変換（項目番号）
+Original Text: （1）
+Replaced Text: (1)
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｍ
+Replaced Text: M
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｏ
+Replaced Text: O
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｘ
+Replaced Text: X
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｍ
+Replaced Text: M
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｏ
+Replaced Text: O
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ｘ
+Replaced Text: X
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ａ
+Replaced Text: A
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 全角英字を半角英字に変換
+Original Text: Ａ
+Replaced Text: A
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ２
+Replaced Text: 2
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ２
+Replaced Text: 2
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ２
+Replaced Text: 2
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 半角カッコを全角カッコに変換（項目番号以外）
+Original Text: (
+Replaced Text: （
+----------------------------------------
+Matched Rule: 半角閉じカッコを全角閉じカッコに変換（項目番号以外）
+Original Text: )
+Replaced Text: ）
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: １
+Replaced Text: 1
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ５
+Replaced Text: 5
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ５
+Replaced Text: 5
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ５
+Replaced Text: 5
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ５
+Replaced Text: 5
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角閉じカッコを半角閉じカッコに変換（項目番号）
+Original Text: （m）
+Replaced Text: (m)
+----------------------------------------
+Matched Rule: 全角閉じカッコを半角閉じカッコに変換（項目番号）
+Original Text: （m）
+Replaced Text: (m)
+----------------------------------------
+Matched Rule: 全角閉じカッコを半角閉じカッコに変換（項目番号）
+Original Text: （m）
+Replaced Text: (m)
+----------------------------------------
+Matched Rule: 全角閉じカッコを半角閉じカッコに変換（項目番号）
+Original Text: （m）
+Replaced Text: (m)
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ５
+Replaced Text: 5
+----------------------------------------
+Matched Rule: 全角数字を半角数字に変換
+Original Text: ５
+Replaced Text: 5
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角記号を半角記号に変換（特定の条件を除く）
+Original Text: －
+Replaced Text: -
+----------------------------------------
+Matched Rule: 全角閉じカッコを半角閉じカッコに変換（項目番号）
+Original Text: （m）
+Replaced Text: (m)
+----------------------------------------
+Matched Rule: 全角閉じカッコを半角閉じカッコに変換（項目番号）
+Original Text: （m）
+Replaced Text: (m)
+----------------------------------------
