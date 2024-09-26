@@ -6,7 +6,7 @@ cd /home/kita/zenkaku_hankaku_check/
 
 # venv仮想環境を作成してください。
 python3 -m venv venv
-※venvは任意の名前を設定できます。その場合は python3 -m venv projectenv のように変更してください
+※venvは任意の名前を設定できます。その場合は python3 -m venv projectenv のように変更してください。
 
 # venv仮想環境を有効化してください。
 source venv/bin/activate
