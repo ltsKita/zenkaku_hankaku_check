@@ -1,4 +1,6 @@
-# 分解したxmlを.docxに再構築するためのコード
+"""
+このファイルではxmlファイルをwordファイルに再構築します。
+"""
 
 import zipfile
 import os
@@ -11,6 +13,9 @@ xml_dir = 'xml_new'  # 解凍先のフォルダ
 output_docx = f"【校閲ずみ】{core_filename}.docx"  # 出力するWordファイル
 
 def create_docx(folder_path, output_docx):
+    """
+    xmlファイルをwordファイルに変換する
+    """
     with zipfile.ZipFile(output_docx, 'w', zipfile.ZIP_DEFLATED) as docx:
         for foldername, subfolders, filenames in os.walk(folder_path):
             for filename in filenames:
